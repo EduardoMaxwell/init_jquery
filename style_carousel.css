@@ -1,0 +1,7 @@
+.link > a{
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid rgb(247, 130, 227);
+    border-radius: 5px;
+    padding: 6px;
+}
